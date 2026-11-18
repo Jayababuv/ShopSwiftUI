@@ -16,6 +16,29 @@ Navigate to detailed product information.
 
 Clean and responsive SwiftUI interface.
 
+📸 App Screenshots
+
+🏠 Home Screen
+
+<img src="Screenshots/home.png" width="250" alt="ShopeeSwift Home Screen" />
+
+📂 Categories
+
+<img src="Screenshots/subcategory.png" width="250" alt="Product Categories" />
+
+🛍️ Product Details
+
+<img src="Screenshots/products.png" width="250" alt="Product Details" />
+
+❤️ Favourites
+
+<img src="Screenshots/favourites.png" width="250" alt="Favourites Screen" />
+
+🛒 Shopping Cart
+
+<img src="Screenshots/cartscreen.png" width="250" alt="Shopping Cart" />
+
+
 ❤️ Favourites
 
 Add and remove products from favourites.
